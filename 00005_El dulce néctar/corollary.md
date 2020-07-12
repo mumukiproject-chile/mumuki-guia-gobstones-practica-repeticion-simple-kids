@@ -1,0 +1,1 @@
+¡Excelente! :clap: En cada tablero había una cantidad diferente de flores :white_flower: que no conocíamos (¡y hasta estaban en diferentes ubicaciones! :scream:) pero la abeja :bee: pudo recolectar el néctar de ellas gracias a la expresión `número de bolitas Azul`. :satisfied:

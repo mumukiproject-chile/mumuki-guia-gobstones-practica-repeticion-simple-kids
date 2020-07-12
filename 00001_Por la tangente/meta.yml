@@ -1,0 +1,18 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Esta actividad tiene dos tareas diferenciadas que se repiten. Pero
+  a la hora de pasar de una a otra podemos ver que hay acciones que debemos mantener
+  fuera de la repetición. En general, cuando se repite un movimiento y una acción,
+  puede suceder que alguno de los dos tenga que ocurrir una vez más. El orden en que
+  los pongamos va a determinar si debemos agregar algo antes o después (y por fuera)
+  del bloque `repetir`. Para pensar: \n\n* ¿Cuál es la instrucción que queda afuera
+  de las repeticiones en tu programa? \n* ¿La pusiste antes o después de la repetición?
+  \n* ¿Podrías cambiarlo de lugar?"
+manual_evaluation: false
+choices: []
+name: Por la tangente

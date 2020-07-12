@@ -1,0 +1,15 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Tenemos que recorrer el tablero para hacer varias acciones diferentes.
+  Si prestamos atención, entre ellas encontramos patrones que se repiten, ¿cómo los
+  agruparías? Si analizamos para cada uno acciones y movimientos:\n\n* ¿Cuántas veces
+  se repite el movimiento en una dirección? ¿Y las acciones? \n* ¿Qué dejarías por
+  fuera del repetir? \n* ¿Lo harías antes o después de cada bloque de repetición?"
+manual_evaluation: false
+choices: []
+name: Un ciclo completo
