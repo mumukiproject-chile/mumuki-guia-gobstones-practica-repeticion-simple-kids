@@ -1,0 +1,7 @@
+files:
+  - source: '**/**.md'
+    ignore:
+      - '**/*state.md'
+    translation: /%locale%/%original_path%/%original_file_name%
+  - source: '**/meta.yml'
+    translation: /%locale%/%original_path%/%original_file_name%
