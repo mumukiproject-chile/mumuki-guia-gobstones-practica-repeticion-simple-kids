@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox_1553783444661.xml"></gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json"></gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox_1553783444661.xml"></gs-toolbox>
 
 Ahora sí, ya podemos recolectar todas las flores que haya :bouquet:. Va a ser muy útil `repetir`, pero no debemos olvidarnos del _caso borde_ :sweat_smile:. Podemos recolectar y volar hacia la siguiente parcela cuantas veces queramos, salvo en la última.
 
