@@ -1,1 +1,1 @@
-¡Increíble! No tuvimos que poner un número fijo en el `repetir`. Con `número de bolitas Azul` supimos cuántas flores blancas habían en la parcela para recolectar polen. :open_mouth: 
+¡Increíble! No tuvimos que poner un número fijo en el `repetir`. Con `número de bolitas Azul` supimos cuántas flores blancas había en la parcela para recolectar polen. :open_mouth: 
