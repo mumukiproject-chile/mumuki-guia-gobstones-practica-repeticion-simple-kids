@@ -1,11 +1,16 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Llegamos al final del capítulo de **repetición simple**. En general, las actividades de cierre retoman todo lo aprendido y combinan procedimientos y soluciones que hicimos en el pasado. Por eso siempre es imporntante prestar atención a los bloques disponibles: \n\n* ¿Qué procedimiento es el más indicado para cumplir el objetivo del problema? \n* ¿Encuentro patrones o tareas que requieran repeticiones? \n* ¿Cuál es la estrategia elegida?"
+teacher_info: "Llegamos al final del capítulo de **repetición simple**. En general,
+  las actividades de cierre retoman todo lo aprendido y combinan procedimientos y
+  soluciones que hicimos en el pasado. Por eso siempre es imporntante prestar atención
+  a los bloques disponibles: \n\n* ¿Qué procedimiento es el más indicado para cumplir
+  el objetivo del problema? \n* ¿Encuentro patrones o tareas que requieran repeticiones?
+  \n* ¿Cuál es la estrategia elegida?"
 manual_evaluation: false
-choices: [ ]
+choices: []
 name: Todo tiene un final
