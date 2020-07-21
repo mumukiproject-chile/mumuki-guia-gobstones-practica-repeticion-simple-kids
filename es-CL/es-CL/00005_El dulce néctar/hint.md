@@ -1,0 +1,1 @@
+Recuerda que existe la expresión `número de bolitas` que nos dice la cantidad de bolitas que hay del color que le indiquemos. Para ver los diferentes tableros tienes que apretar la flechita negra ► que tienen al lado. 
