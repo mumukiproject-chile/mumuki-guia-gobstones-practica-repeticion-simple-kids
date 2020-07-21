@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox_1566424700623.xml"></gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json"></gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox_1566424700623.xml"></gs-toolbox>
 
 ¡Es excelente el trabajo que hiciste hasta acá! :smile: Sólo te pediremos un último esfuerzo para juntar las nuevas habilidades de nuestra abeja robot :honeybee: y resolver el próximo problema. Tendrás que usar varias veces la estructura `repetir`, pero de distintas maneras :grimacing:. Lo bueno es que no habrá nada que no hayas visto ya. :wink: ¡Probémoslo!
 
