@@ -5,7 +5,7 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: "Esta actividad no suele resolverse al primer intento, ¿dónde crees que radica su dificultad?\nEn las actividades anteriores se presentó un nuevo bloque: \n\n* ¿Por qué puede ser útil en este programa? \n* ¿Cómo sabemos la cantidad exacta de bolitas en una parcela?"
+teacher_info: "Esta actividad no suele resolverse al primer intento, ¿dónde crees que radica su dificultad? En las actividades anteriores se presentó un nuevo bloque: \n\n* ¿Por qué puede ser útil en este programa? \n* ¿Cómo sabemos la cantidad exacta de bolitas que hay en una parcela?"
 manual_evaluation: false
 choices: [ ]
 name: Un poco de todo
