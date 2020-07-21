@@ -1,10 +1,10 @@
 ---
 locale: es
-tags: []
+tags: [ ]
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
-name: Danzando nos vamos acercando
+choices: [ ]
+name: Bailando nos vamos acercando

@@ -1,3 +1,0 @@
-La primavera avanzó y las abejas tienen muchísimo trabajo que hacer, porque cada vez hay más flores de las que recolectar polen y néctar, y más plantas que necesitan ser polinizadas. :tulip::sunflower::rose:
-
-Pero si hay más flores... ¿cómo le diremos a nuestra abeja robot cuántas flores recorrer? :flushed: Es decir, cuántas veces tendremos que repetir la ejecución de `Recolectar Polen` o `Recolectar Nectar`? En esta lección aprenderemos una nueva expresión de Gobstones que nos ayudará a resolver ese problema fácilmente. ¡Veámosla! :smiley:
